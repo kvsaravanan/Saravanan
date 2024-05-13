@@ -200,7 +200,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #101e9e;}
     content: " ";
     top:0;
     left:0;
-    background:rgba(31,44,108,.65);
+    background:rgba(57, 68, 148, 0.479);
     width:100%;
     height:100%;
 }
@@ -521,7 +521,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 --------------------------------------*/
 .profiles {
     padding:  50px 0 100px;
-    border:  1px solid #d1ddeb;
+    border:  1px solid #f2f3f5;
 }
 
 .profiles-content {padding-top: 100px;}
@@ -537,7 +537,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     display: flex;
     justify-content: center;
     align-items: center;
-    border-right: 1px solid #b2c1ce;
+    border-right: 1px solid #fdfdfd;
     overflow:hidden;
     -webkit-transition:background 0.5s linear; 
     -moz-transition:background 0.5s linear; 
@@ -552,7 +552,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-profile.profile-no-border{border-right:transparent;}
 .profile-border {
-    border-bottom: 1px solid #b2c1ce;
+    border-bottom: 1px solid #fdfdfd;
 }
 .single-profile-overlay{
     display:flex;
